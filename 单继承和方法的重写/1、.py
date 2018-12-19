@@ -29,3 +29,5 @@ gou = shengou()
 gou.lashi()
 
 print(shengou.__mro__)
+
+ 
