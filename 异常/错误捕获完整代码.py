@@ -1,0 +1,12 @@
+try:
+    '执行代码'
+    pass
+except:
+    '出错后执行代码'
+    pass
+else:
+    '没有异常才会执行的代码'
+    pass
+finally:
+    '无论是否有异常都会执行的代码'
+    pass

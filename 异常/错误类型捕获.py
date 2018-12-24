@@ -8,5 +8,6 @@ try:
 
 except ZeroDivisionError:
     print('除零错误')
-except ValueError:
-    print('输入错误')
+except Exception as result:
+    print('未知错误')
+    print(result)
