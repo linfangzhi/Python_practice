@@ -1,0 +1,47 @@
+Index: matplotlib_基操/text.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- matplotlib_基操/text.py	(revision a4dd06f9cce1e3d4c5b64f35d602df8335e8e55d)
++++ matplotlib_基操/text.py	(date 1547105279914)
+@@ -10,6 +10,7 @@
+ 
+ avr_list = [sum(i)/len(i) for i in avr]
+ plt.yticks(range(100)[::2])
+-plt.plot(range(1,10000),avr_list)
++
++plt.plot(range(1,10000),avr_list) #折线图
+ 
+ plt.show()
+\ No newline at end of file
+Index: matplotlib_基操/散点图.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- matplotlib_基操/散点图.py	(date 1547106294210)
++++ matplotlib_基操/散点图.py	(date 1547106294210)
+@@ -0,0 +1,21 @@
++from matplotlib import pyplot as plt
++import math
++import random
++from matplotlib import font_manager
++
++my_font = font_manager.FontProperties(fname=r'C:\\WINDOWS\\Fonts\\simsun.ttc')
++
++a = [random.randint(50,100) for i in range(100)]
++
++b = [i for i in range(100)]
++
++plt.scatter(b,a,label='图例')
++plt.xticks(b[::5],['{}牛逼'.format(i)for i in b],fontproperties=my_font,rotation = 45)
++
++plt.xlabel('x坐标名称',fontproperties=my_font)
++plt.ylabel('y坐标名称',fontproperties=my_font)
++plt.ylabel('标题',fontproperties=my_font)
++
++plt.legend(prop = my_font)
++
++plt.show()
+\ No newline at end of file
