@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa0712f8-6d51-49de-a231-56c5c633d723" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/emmm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/remote-mappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_基操/new.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_基操/numpy01.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础/002.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/日常练习.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/日常练习.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy_基操/数组的计算和数组的计算.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy_基操/数组的计算和数组的计算.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,16 +29,25 @@
     <SUITE FILE_PATH="coverage/$yield.coverage" NAME="yield Coverage Results" MODIFIED="1547017664304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础" />
     <SUITE FILE_PATH="coverage/$.coverage" NAME="日常练习 Coverage Results" MODIFIED="1555482355383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="日常练习" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="954e2f9e-bf00-45c4-bd6e-0a7b4cb77476">
+    <option name="files">
+      <option value="numpy_基操\numpy01.ipynb" />
+      <option value="基础\002.ipynb" />
+    </option>
   </component>
   <component name="ProjectId" id="1VNdEoJP6tCdiI4NlalT1G1Ubms" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -52,14 +65,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PycharmProjects\日常练习\单继承和方法的重写" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.直方图">
+  <component name="RunManager" selected="Python.1">
     <configuration name="日常练习" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="日常练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -502,10 +515,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.直方图" />
-        <item itemvalue="Python.Nmpy函数" />
         <item itemvalue="Python.1" />
         <item itemvalue="Python.emmm" />
+        <item itemvalue="Python.直方图" />
+        <item itemvalue="Python.Nmpy函数" />
         <item itemvalue="Python.text" />
       </list>
     </recent_temporary>
@@ -569,7 +582,19 @@
       <workItem from="1577097381732" duration="1401000" />
       <workItem from="1577099161167" duration="1305000" />
       <workItem from="1577152170386" duration="637000" />
-      <workItem from="1577240615003" duration="1187000" />
+      <workItem from="1577240615003" duration="3122000" />
+      <workItem from="1577254732129" duration="5224000" />
+      <workItem from="1577581000137" duration="697000" />
+      <workItem from="1577602035404" duration="2082000" />
+      <workItem from="1577604938326" duration="675000" />
+      <workItem from="1577605957963" duration="411000" />
+      <workItem from="1577696856653" duration="2015000" />
+      <workItem from="1577861095390" duration="6402000" />
+      <workItem from="1577893613834" duration="829000" />
+      <workItem from="1577931645517" duration="3545000" />
+      <workItem from="1577935706614" duration="1521000" />
+      <workItem from="1577954738379" duration="609000" />
+      <workItem from="1577957155819" duration="645000" />
     </task>
     <task id="LOCAL-00001" summary="eemmm">
       <created>1544874607955</created>
@@ -641,7 +666,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547135573437</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="20191225">
+      <created>1577242561021</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1577242561022</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -654,20 +686,57 @@
     <MESSAGE value="20181226" />
     <MESSAGE value="20190109" />
     <MESSAGE value="20190110" />
-    <option name="LAST_COMMIT_MESSAGE" value="20190110" />
+    <MESSAGE value="20191225" />
+    <option name="LAST_COMMIT_MESSAGE" value="20191225" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="742" y="298" key="FileChooserDialogImpl" timestamp="1577099217717">
+    <state x="560" y="130" key="CommitChangelistDialog2" timestamp="1577242560235">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="742" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1577099217717" />
-    <state x="463" y="185" key="SettingsEditor" timestamp="1577099222815">
+    <state x="560" y="130" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1577242560235" />
+    <state x="742" y="298" key="FileChooserDialogImpl" timestamp="1577935149349">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="463" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1577099222815" />
-    <state x="652" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1577240667250">
+    <state x="742" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1577935149349" />
+    <state width="1877" height="310" key="GridCell.Tab.0.bottom" timestamp="1577760686145">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="652" y="368" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577240667250" />
+    <state width="1877" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577760686145" />
+    <state width="1877" height="310" key="GridCell.Tab.0.center" timestamp="1577760686145">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="310" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577760686145" />
+    <state width="1877" height="310" key="GridCell.Tab.0.left" timestamp="1577760686145">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="310" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577760686145" />
+    <state width="1877" height="310" key="GridCell.Tab.0.right" timestamp="1577760686145">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="310" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577760686145" />
+    <state x="344" y="226" key="SettingsEditor" timestamp="1577936044402">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="344" y="226" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1577936044402" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1577242564013">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1577242564013" />
+    <state x="652" y="368" key="com.intellij.ide.util.TipDialog" timestamp="1577957157989">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="652" y="368" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577957157989" />
+    <state x="584" y="314" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1577934732375">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="584" y="314" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1920.1080@0.0.1920.1080" timestamp="1577934732375" />
+    <state x="733" y="314" key="ftp.server.browser" timestamp="1577934809054">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="733" y="314" key="ftp.server.browser/0.0.1920.1080@0.0.1920.1080" timestamp="1577934809054" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1577935819725">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1577935819725" />
   </component>
 </project>
