@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fa0712f8-6d51-49de-a231-56c5c633d723" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas学习/01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas学习/01.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas学习/CH02数据分析工具：Pandas__Part01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas学习/CH02数据分析工具：Pandas__Part01.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -615,7 +615,7 @@
       <workItem from="1580875611690" duration="695000" />
       <workItem from="1580899525058" duration="838000" />
       <workItem from="1582684470930" duration="2626000" />
-      <workItem from="1582702593126" duration="3999000" />
+      <workItem from="1582702593126" duration="4865000" />
     </task>
     <task id="LOCAL-00001" summary="eemmm">
       <created>1544874607955</created>
@@ -736,7 +736,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582685529613</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="20200226">
+      <created>1582722586963</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1582722586963</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -760,11 +767,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="689" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1578051815179" />
-    <state x="1120" y="260" key="CommitChangelistDialog2" timestamp="1582685528905">
+    <state x="1120" y="260" key="CommitChangelistDialog2" timestamp="1582722586095">
       <screen x="0" y="0" width="3840" height="2160" />
     </state>
     <state x="560" y="130" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1578014848383" />
-    <state x="1120" y="260" key="CommitChangelistDialog2/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582685528905" />
+    <state x="1120" y="260" key="CommitChangelistDialog2/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582722586095" />
     <state x="742" y="298" key="FileChooserDialogImpl" timestamp="1578452087256">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -809,11 +816,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="344" y="226" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1578052420212" />
-    <state x="1104" y="546" key="Vcs.Push.Dialog.v2" timestamp="1582685531661">
+    <state x="1104" y="546" key="Vcs.Push.Dialog.v2" timestamp="1582722590855">
       <screen x="0" y="0" width="3840" height="2160" />
     </state>
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1578014851013" />
-    <state x="1104" y="546" key="Vcs.Push.Dialog.v2/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582685531661" />
+    <state x="1104" y="546" key="Vcs.Push.Dialog.v2/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582722590855" />
     <state x="1304" y="736" key="com.intellij.ide.util.TipDialog" timestamp="1582701707897">
       <screen x="0" y="0" width="3840" height="2160" />
     </state>
@@ -823,10 +830,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="584" y="314" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1920.1080@0.0.1920.1080" timestamp="1577934732375" />
-    <state x="1913" y="0" width="1934" height="1087" key="dock-window-1" timestamp="1582715858768">
+    <state x="1913" y="0" width="1934" height="1087" key="dock-window-1" timestamp="1582770644604">
       <screen x="0" y="0" width="3840" height="2160" />
     </state>
-    <state x="1913" y="0" width="1934" height="1087" key="dock-window-1/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582715858768" />
+    <state x="1913" y="0" width="1934" height="1087" key="dock-window-1/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582770644604" />
     <state x="733" y="314" key="ftp.server.browser" timestamp="1577934809054">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
