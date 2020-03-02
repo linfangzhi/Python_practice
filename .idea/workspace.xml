@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="fa0712f8-6d51-49de-a231-56c5c633d723" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas学习/01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas学习/01.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pandas学习/CH02数据分析工具：Pandas__Part01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas学习/CH02数据分析工具：Pandas__Part01.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据特征分析实操/CH01数据特征分析_课程1.2_分布分析.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据特征分析实操/CH01数据特征分析_课程1.2_分布分析.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,28 +152,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy_基操/Nmpy函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="其他东西" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="日常练习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/其他东西.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -439,6 +419,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="其他东西" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="日常练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/其他东西.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="日常练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -615,7 +617,11 @@
       <workItem from="1580875611690" duration="695000" />
       <workItem from="1580899525058" duration="838000" />
       <workItem from="1582684470930" duration="2626000" />
-      <workItem from="1582702593126" duration="4865000" />
+      <workItem from="1582702593126" duration="7286000" />
+      <workItem from="1582780498210" duration="6790000" />
+      <workItem from="1582851140868" duration="653000" />
+      <workItem from="1582874415659" duration="4132000" />
+      <workItem from="1583074578092" duration="622000" />
     </task>
     <task id="LOCAL-00001" summary="eemmm">
       <created>1544874607955</created>
@@ -743,7 +749,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582722586963</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="20200226">
+      <created>1582770897101</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1582770897101</updated>
+    </task>
+    <task id="LOCAL-00020" summary="20200226">
+      <created>1582770986587</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1582770986587</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -767,11 +787,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="689" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1578051815179" />
-    <state x="1120" y="260" key="CommitChangelistDialog2" timestamp="1582770896384">
+    <state x="1120" y="260" key="CommitChangelistDialog2" timestamp="1582770985804">
       <screen x="0" y="0" width="3840" height="2160" />
     </state>
     <state x="560" y="130" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1578014848383" />
-    <state x="1120" y="260" key="CommitChangelistDialog2/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582770896384" />
+    <state x="1120" y="260" key="CommitChangelistDialog2/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582770985804" />
     <state x="742" y="298" key="FileChooserDialogImpl" timestamp="1578452087256">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -816,24 +836,24 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="344" y="226" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1578052420212" />
-    <state x="1104" y="546" key="Vcs.Push.Dialog.v2" timestamp="1582770902678">
+    <state x="1104" y="546" key="Vcs.Push.Dialog.v2" timestamp="1582770987862">
       <screen x="0" y="0" width="3840" height="2160" />
     </state>
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1578014851013" />
-    <state x="1104" y="546" key="Vcs.Push.Dialog.v2/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582770902678" />
-    <state x="1304" y="736" key="com.intellij.ide.util.TipDialog" timestamp="1582701707897">
+    <state x="1104" y="546" key="Vcs.Push.Dialog.v2/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582770987862" />
+    <state x="1304" y="736" key="com.intellij.ide.util.TipDialog" timestamp="1583116019475">
       <screen x="0" y="0" width="3840" height="2160" />
     </state>
     <state x="652" y="368" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580878593758" />
-    <state x="1304" y="736" key="com.intellij.ide.util.TipDialog/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582701707897" />
+    <state x="1304" y="736" key="com.intellij.ide.util.TipDialog/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1583116019475" />
     <state x="584" y="314" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1577934732375">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="584" y="314" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1920.1080@0.0.1920.1080" timestamp="1577934732375" />
-    <state x="1913" y="0" width="1934" height="1087" key="dock-window-1" timestamp="1582770644604">
+    <state x="1913" y="1080" width="1934" height="1087" key="dock-window-1" timestamp="1583116063848">
       <screen x="0" y="0" width="3840" height="2160" />
     </state>
-    <state x="1913" y="0" width="1934" height="1087" key="dock-window-1/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582770644604" />
+    <state x="1913" y="1080" width="1934" height="1087" key="dock-window-1/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1583116063848" />
     <state x="733" y="314" key="ftp.server.browser" timestamp="1577934809054">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
