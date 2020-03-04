@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa0712f8-6d51-49de-a231-56c5c633d723" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Pandas学习/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pandas学习/01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas学习/01.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas学习/CH02数据分析工具：Pandas__Part01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas学习/CH02数据分析工具：Pandas__Part01.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据特征分析实操/CH01数据特征分析_课程1.2_分布分析.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数据特征分析实操/CH01数据特征分析_课程1.2_分布分析.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +30,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -59,7 +58,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Pandas学习" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Behance重启" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Jupyter Settings" />
@@ -73,7 +72,7 @@
       <recent name="D:\PycharmProjects\日常练习\数据特征分析实操" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.beta">
+  <component name="RunManager" selected="Python.test">
     <configuration name="日常练习" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="日常练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Nmpy函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="多态" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="日常练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,14 +143,102 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numpy_基操" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/单继承和方法的重写" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy_基操/Nmpy函数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/单继承和方法的重写/多态.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="私有属性和方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="日常练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/私有属性和方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="散点图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="日常练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplotlib_基操" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplotlib_基操/散点图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="直方图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="日常练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplotlib_基操" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplotlib_基操/直方图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="其他东西" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="日常练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/其他东西.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -331,116 +418,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="多态" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="日常练习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/单继承和方法的重写" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/单继承和方法的重写/多态.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="私有属性和方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="日常练习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/私有属性和方法.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="散点图" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="日常练习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplotlib_基操" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplotlib_基操/散点图.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="直方图" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="日常练习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplotlib_基操" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplotlib_基操/直方图.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="其他东西" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="日常练习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/其他东西.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="日常练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -507,20 +484,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="日常练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pandas学习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas学习/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Nmpy函数" />
       <item itemvalue="Python.emmm" />
       <item itemvalue="Python.1" />
       <item itemvalue="Python.直方图" />
       <item itemvalue="Python.beta" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.beta" />
         <item itemvalue="Python.1" />
         <item itemvalue="Python.emmm" />
         <item itemvalue="Python.直方图" />
-        <item itemvalue="Python.Nmpy函数" />
       </list>
     </recent_temporary>
   </component>
@@ -622,6 +621,7 @@
       <workItem from="1582851140868" duration="653000" />
       <workItem from="1582874415659" duration="4132000" />
       <workItem from="1583074578092" duration="622000" />
+      <workItem from="1583116011536" duration="13598000" />
     </task>
     <task id="LOCAL-00001" summary="eemmm">
       <created>1544874607955</created>
@@ -763,7 +763,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582770986587</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="20200226">
+      <created>1583116092324</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1583116092324</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -787,35 +794,36 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="689" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1578051815179" />
-    <state x="1120" y="260" key="CommitChangelistDialog2" timestamp="1582770985804">
+    <state x="1120" y="260" key="CommitChangelistDialog2" timestamp="1583116091324">
       <screen x="0" y="0" width="3840" height="2160" />
     </state>
     <state x="560" y="130" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1578014848383" />
-    <state x="1120" y="260" key="CommitChangelistDialog2/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582770985804" />
-    <state x="742" y="298" key="FileChooserDialogImpl" timestamp="1578452087256">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="1120" y="260" key="CommitChangelistDialog2/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1583116091324" />
+    <state x="1484" y="596" key="FileChooserDialogImpl" timestamp="1583249485470">
+      <screen x="0" y="0" width="3840" height="2160" />
     </state>
     <state x="742" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1578452087256" />
-    <state width="1874" height="154" key="GridCell.Tab.0.bottom" timestamp="1582704153490">
+    <state x="1484" y="596" key="FileChooserDialogImpl/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1583249485470" />
+    <state width="1874" height="154" key="GridCell.Tab.0.bottom" timestamp="1583116188035">
       <screen x="0" y="0" width="3840" height="2160" />
     </state>
     <state width="1877" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1578641510590" />
-    <state width="1874" height="154" key="GridCell.Tab.0.bottom/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582704153490" />
-    <state width="1874" height="154" key="GridCell.Tab.0.center" timestamp="1582704153490">
+    <state width="1874" height="154" key="GridCell.Tab.0.bottom/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1583116188035" />
+    <state width="1874" height="154" key="GridCell.Tab.0.center" timestamp="1583116188035">
       <screen x="0" y="0" width="3840" height="2160" />
     </state>
     <state width="1877" height="272" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1578641510590" />
-    <state width="1874" height="154" key="GridCell.Tab.0.center/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582704153490" />
-    <state width="1874" height="154" key="GridCell.Tab.0.left" timestamp="1582704153490">
+    <state width="1874" height="154" key="GridCell.Tab.0.center/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1583116188035" />
+    <state width="1874" height="154" key="GridCell.Tab.0.left" timestamp="1583116188035">
       <screen x="0" y="0" width="3840" height="2160" />
     </state>
     <state width="1877" height="272" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1578641510589" />
-    <state width="1874" height="154" key="GridCell.Tab.0.left/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582704153490" />
-    <state width="1874" height="154" key="GridCell.Tab.0.right" timestamp="1582704153490">
+    <state width="1874" height="154" key="GridCell.Tab.0.left/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1583116188035" />
+    <state width="1874" height="154" key="GridCell.Tab.0.right" timestamp="1583116188035">
       <screen x="0" y="0" width="3840" height="2160" />
     </state>
     <state width="1877" height="272" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1578641510590" />
-    <state width="1874" height="154" key="GridCell.Tab.0.right/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582704153490" />
+    <state width="1874" height="154" key="GridCell.Tab.0.right/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1583116188035" />
     <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1578052424963">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -836,11 +844,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="344" y="226" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1578052420212" />
-    <state x="1104" y="546" key="Vcs.Push.Dialog.v2" timestamp="1582770987862">
+    <state x="1104" y="546" key="Vcs.Push.Dialog.v2" timestamp="1583116095397">
       <screen x="0" y="0" width="3840" height="2160" />
     </state>
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1578014851013" />
-    <state x="1104" y="546" key="Vcs.Push.Dialog.v2/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1582770987862" />
+    <state x="1104" y="546" key="Vcs.Push.Dialog.v2/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1583116095397" />
     <state x="1304" y="736" key="com.intellij.ide.util.TipDialog" timestamp="1583116019475">
       <screen x="0" y="0" width="3840" height="2160" />
     </state>
@@ -850,10 +858,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="584" y="314" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1920.1080@0.0.1920.1080" timestamp="1577934732375" />
-    <state x="1913" y="1080" width="1934" height="1087" key="dock-window-1" timestamp="1583116063848">
+    <state x="1913" y="1080" width="1934" height="1087" key="dock-window-1" timestamp="1583291624131">
       <screen x="0" y="0" width="3840" height="2160" />
     </state>
-    <state x="1913" y="1080" width="1934" height="1087" key="dock-window-1/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1583116063848" />
+    <state x="1913" y="1080" width="1934" height="1087" key="dock-window-1/0.0.3840.2160/-1080.815.1080.1920@0.0.3840.2160" timestamp="1583291624131" />
     <state x="733" y="314" key="ftp.server.browser" timestamp="1577934809054">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
