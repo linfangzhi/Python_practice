@@ -35,9 +35,11 @@ url = 'https://wxapi.szgalaxy.com/api/Community/PutPostReadQty?UserToken=Microt{
 #
 # }
 # url = 'https://wxapi.szgalaxy.com/api/Community/PutPostPraise?UserToken=Microt{}'.format(UserToken)
-for i in range(16):
+for i in range(26):
     a = requests.post(url=url,timeout=10)
     b = a.json()
     print(b['msg'])
     time.sleep(1)
+
+
 
